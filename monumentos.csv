@@ -1,0 +1,19 @@
+id;nome;lat;lon;categoria;x_map;y_map
+1;Basílica de San Vital;44.4206;12.1965;chiesa;-0.962;1.379
+2;Mausoleo de Gala Placidia;44.4203;12.1970;chiesa;-0.563;1.663
+3;Baptisterio Neoniano;44.4194;12.1969;chiesa;-0.577;-1.139
+4;Capilla Arzobispal;44.4191;12.1968;chiesa;-0.515;-1.417
+5;San Apolinar Nuevo;44.4168;12.2009;chiesa;2.164;-0.575
+6;Baptisterio de los Arrianos;44.4173;12.1997;chiesa;1.332;0.429
+7;Piazza del Popolo;44.4181;12.1977;piazza;0.276;-0.059
+8;Tumba de Dante;44.4158;12.1982;monumento;0.794;-0.729
+9;Rocca Brancaleone;44.4217;12.2023;hub;2.520;2.245
+10;MAR - Museo de Arte;44.4174;12.2017;hub;2.845;-2.023
+11;Estación de Tren;44.4156;12.2045;hub;3.305;0.629
+12;Catedral de Rávena;44.4192;12.1966;chiesa;-0.663;-1.315
+13;Basílica de San Francisco;44.4155;12.1983;chiesa;0.822;-1.020
+14;Teatro Alighieri;44.4168;12.1973;hub; 0.779;-0.232
+15;Mercado Cubierto;44.4170;12.1961;hub;0.088;0.579
+16;Puerta Adriana;44.4191;12.1916;monumento;1.062;2.431
+17;Biblioteca Classense;44.4140;12.1989;hub;0.306; -1.720
+18;Palacio de Teodorico;44.4165;12.2013;monumento;2.178;-0.860
